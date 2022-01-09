@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 changes hero
 changement
+=======
+bla bla
+>>>>>>> navbar
